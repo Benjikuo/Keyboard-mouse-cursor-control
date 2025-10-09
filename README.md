@@ -7,7 +7,14 @@ A program let user control the cursor by using a keyboard.
 
 <br>
 
-## Ways to use this program    
+## Why I built this
+- Operate the cursor when a mouse is missing, broken, or unavailable.
+- Work effectively in tight spaces where mouse movement is constrained.
+- Provide a alternative when touchpads are inaccurate or unresponsive.
+
+<br>
+
+## Ways to use this program  
 **.ahk:** You need to install AutoHotkey to run this script.    
 **.exe:** You can run it directly on any Windows system.  
 
