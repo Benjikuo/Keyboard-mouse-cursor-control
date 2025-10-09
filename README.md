@@ -1,6 +1,10 @@
 # Keyboard-mouse-cursor-control
 A program let user control the cursor by using a keyboard. 
 
+<p>
+  <img src="./image/screenshot.gif">
+</p>
+
 <br>
 
 ## Ways to use this program    
