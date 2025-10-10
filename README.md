@@ -8,9 +8,9 @@ A program let user control the cursor by using a keyboard.
 <br>
 
 ## Why I built this
-- Operate the cursor when a mouse is missing, broken, or unavailable.
-- Work effectively in tight spaces where mouse movement is constrained.
-- Provide a alternative when touchpads are inaccurate or unresponsive.
+- It's convenient to jot down to-do lists directly on the desktop
+- It serves as a digital alternative to sticky notes, saving both space and paper.  
+- It helps capture sudden ideas before they slip away.
 
 <br>
 
