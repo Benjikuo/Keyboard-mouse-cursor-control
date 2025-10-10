@@ -22,7 +22,7 @@ A program let user control the cursor by using a keyboard.
 
 ## The hotkeys  
 ### Toggle Features: 
-***"Ctrl" + "M": activate the mouse mode / change it back to the keyboard mode***  
+**"Ctrl" + "M": activate the mouse mode / change it back to the keyboard mode**  
 
 ### On mouse mode:  
 **Movement**  
