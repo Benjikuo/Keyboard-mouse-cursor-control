@@ -1,4 +1,4 @@
-# Keyboard-mouse-cursor-control
+<img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/ce87738f-d350-4790-ac64-b1af22b9ceb8" /># Keyboard-mouse-cursor-control
 A program let user control the cursor by using a keyboard. 
 
 <p>
@@ -7,20 +7,20 @@ A program let user control the cursor by using a keyboard.
 
 <br>
 
-## Why I built this
+## 🛠️ Why I built this
 - Operate the cursor when a mouse is missing, broken, or unavailable.
 - Work effectively in tight spaces where mouse movement is constrained.
 - Provide a alternative when touchpads are inaccurate or unresponsive.
 
 <br>
 
-## Ways to use this program  
+## ⚙️ Ways to use this program  
 **.ahk:** You need to install AutoHotkey to run this script.    
 **.exe:** You can run it directly on any Windows system.  
 
 <br>
 
-## The hotkeys  
+## ⌨️ The hotkeys  
 ### Toggle Features: 
 **"Ctrl" + "M": activate the mouse mode / change it back to the keyboard mode**  
 
