@@ -1,8 +1,8 @@
-<img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/ce87738f-d350-4790-ac64-b1af22b9ceb8" /># Keyboard-mouse-cursor-control
+# Keyboard-mouse-cursor-control
 A program let user control the cursor by using a keyboard. 
 
 <p>
-  <img src="./image/screenshot.gif">
+  <img src="./image/screenshot.gif" width="700">
 </p>
 
 <br>
