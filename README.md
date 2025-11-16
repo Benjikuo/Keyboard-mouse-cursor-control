@@ -14,7 +14,7 @@ A program let user control the cursor by using a keyboard.
 
 <br>
 
-## ⚙️ Ways to use this program  
+## ▶️ How to Run
 **.ahk:** You need to install AutoHotkey to run this script.    
 **.exe:** You can run it directly on any Windows system.  
 
@@ -45,3 +45,11 @@ pressing keys above while pressed "Alt": speed down
 
 ### Disable mouse mode: 
 The program will automatically switch back to keyboard mode if the user presses keys that are not defined as hotkeys.
+
+<br>
+
+## 📜 License
+This project is released under the **MIT License**.  
+You are free to modify and use it for learning, personal, or performance purposes.  
+
+**AHK can be used to create many interesting functions. If you’re interested, you could give it a try and learn it.**
