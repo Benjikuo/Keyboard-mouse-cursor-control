@@ -49,7 +49,7 @@ The program will automatically switch back to keyboard mode if the user presses 
 <br>
 
 ## 📜 License
-This project is released under the **MIT License**.  
+Released under the **MIT License**.   
 You are free to modify and use it for learning, personal, or performance purposes.  
 
 **AHK can be used to create many interesting functions. If you’re interested, you could give it a try and learn it.**
