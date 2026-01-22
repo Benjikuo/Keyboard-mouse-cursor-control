@@ -1,7 +1,7 @@
 # Keyboard-mouse-cursor-control
 
 ![License](https://img.shields.io/badge/license-MIT-yellow)
-![Language](https://img.shields.io/badge/language-AHK-blue)
+![Language](https://img.shields.io/badge/language-AutoHotkey-blue)
 
 A program let user control the cursor by using a keyboard. 
 
